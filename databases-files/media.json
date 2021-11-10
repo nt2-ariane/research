@@ -1,0 +1,79 @@
+[{
+  "_id": {
+    "$oid": "5f721891a496443684f0e7cf"
+  },
+  "title_en": "references.txt",
+  "title_fr": "references.txt",
+  "description_en": "<p>Reference list that reveals the project’s conceptualization process and its research methodologies.</p>",
+  "description_fr": "<p>Liste de références qui rend compte de la conceptualisation du projet et de ses méthodologies de recherche.</p>",
+  "file": {
+    "name": "references.txt.docx",
+    "path": "https://api.researchexhibition.org/file/references.txt.docx"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7218cba496443684f0e7d0"
+  },
+  "title_en": "podcast_tajectoires_presentation-joanne-lalonde.mp3",
+  "title_fr": "podcast_tajectoires_presentation-joanne-lalonde.mp3",
+  "description_en": "<p>Joanne Lalonde, head of the Archiver le présent research group and co-curator of the project, provides an overview of the online exhibition <i>Re|Search</i> during her appearance on the TRAJECTOIRES podcast of the Faculté des arts de l’Université du Québec à Montréal, broadcasted on CHOQ.ca.</p>",
+  "description_fr": "<p>Joanne Lalonde, responsable du groupe de recherche Archiver le présent et co-commissaire du projet, offre un portrait de l’exposition en ligne <i>Re|Search</i> lors de son passage au podcast<a href=\"https://www.choq.ca/emissions-details/trajectoires\"> </a>TRAJECTOIRES de la Faculté des arts de l'Université du Québec à Montréal, diffusé sur CHOQ.ca.</p>",
+  "file": {
+    "name": "podcast_tajectoires_presentation-joanne-lalonde.mp3",
+    "path": "https://api.researchexhibition.org/file/podcast_tajectoires_presentation-joanne-lalonde.mp3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7218fda496443684f0e7d1"
+  },
+  "title_en": "lancement-en-ligne_online-launch_06-17-2020.mp4",
+  "title_fr": "lancement-en-ligne_online-launch_06-17-2020.mp4",
+  "description_en": "<p>On June 17, 2020, the first part of the <i>Re|Search</i> exhibition was launched online. The launch took place on Facebook and began with a short presentation of the project by Gina Cortopassi and Lisa Tronca of the Archiver le Présent Collective. It was followed by a live discussion with two artists from the exhibition: Baron Lanteigne and Nans Bortuzzo. The screening of their video works commissioned especially for <i>Re|Search</i> closed the event.</p>",
+  "description_fr": "<p>Le 17 juin 2020 avait lieu le lancement en ligne, sur la plateforme Facebook, du premier volet de l'exposition <i>Re|Search</i>. Le lancement débute par une courte présentation du projet par Gina Cortopassi et Lisa Tronca du collectif Archiver le présent. S'ensuit une discussion en direct avec deux artistes de l’exposition: Baron Lanteigne et Nans Bortuzzo. La diffusion de leurs oeuvres vidéo commandées spécialement pour Re|Search clôt l'événement.</p>",
+  "file": {
+    "name": "lancement-en-ligne_online-launch_06-17-2020.mp4",
+    "path": "https://api.researchexhibition.org/file/lancement-en-ligne_online-launch_06-17-2020.mp4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f72195ca496443684f0e7d2"
+  },
+  "title_en": "installation-sketch-01.jpg",
+  "title_fr": "installation-sketch-01.jpg",
+  "description_en": "<p>Sketches for the physical installation of the <i>Re|Search</i> project planned for the 26th International Symposium on Electronic Art ISEA2020. Given the worldwide impact of the coronavirus pandemic, the ISEA2020 team decided to re-imagine the event and transform it into an online experience. The <i>Re|Search</i> online exhibition is therefore part of the programming in its original form, thought for the web.</p><p>Images created by Nans Bortuzzo for the Archiver le Présent Collective.</p>",
+  "description_fr": "<p>Vues de l’installation physique du projet <i>Re|Search </i>projetée pour le 26e Symposium international sur l’art électronique ISEA2020. Étant donné la situation mondiale altérée par la pandémie de coronavirus, l’équipe d’ISEA2020 a décidé de réimaginer l’événement et de le transformer en une expérience en ligne. L’exposition en ligne <i>Re|Search </i>fait donc partie de la programmation sous sa forme originale, pensée pour le web.&nbsp;</p><p>Images réalisées par Nans Bortuzzo pour le collectif Archiver le présent.</p>",
+  "file": {
+    "name": "installation-sketch-01.jpg",
+    "path": "https://api.researchexhibition.org/file/installation-sketch-01.jpg"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f72196aa496443684f0e7d3"
+  },
+  "title_en": "installation-sketch-02.jpg",
+  "title_fr": "installation-sketch-02.jpg",
+  "description_en": "<p>Sketches for the physical installation of the <i>Re|Search</i> project planned for the 26th International Symposium on Electronic Art ISEA2020. Given the worldwide impact of the coronavirus pandemic, the ISEA2020 team decided to re-imagine the event and transform it into an online experience. The <i>Re|Search</i> online exhibition is therefore part of the programming in its original form, thought for the web.</p><p>Images created by Nans Bortuzzo for the Archiver le Présent Collective.</p>",
+  "description_fr": "<p>Vues de l’installation physique du projet <i>Re|Search </i>projetée pour le 26e Symposium international sur l’art électronique ISEA2020. Étant donné la situation mondiale altérée par la pandémie de coronavirus, l’équipe d’ISEA2020 a décidé de réimaginer l’événement et de le transformer en une expérience en ligne. L’exposition en ligne <i>Re|Search </i>fait donc partie de la programmation sous sa forme originale, pensée pour le web.&nbsp;</p><p>Images réalisées par Nans Bortuzzo pour le collectif Archiver le présent.</p>",
+  "file": {
+    "name": "installation-sketch-02.jpg",
+    "path": "https://api.researchexhibition.org/file/installation-sketch-02.jpg"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f721990a496443684f0e7d4"
+  },
+  "title_en": "essai_google-et-la-societe-de-la-requete_bertrand-gervais.pdf",
+  "title_fr": "essai_google-et-la-societe-de-la-requete_bertrand-gervais.pdf",
+  "description_en": "<p>Bertrand Gervais, Canada Research Chair in Digital Art and Literature—which supports, among other projects, Archiver le présent— and co-curator of the online exhibition Re|Search, signs an essay on practices of appropriation and <i>détournement</i> as a response to the hegemony of Google’s search engine and devices. This text is part of the <i>Architectures de mémoire</i> collective volume published in 2019 by Les Presses du réel.</p>",
+  "description_fr": "<p>Bertrand Gervais, titulaire de la Chaire de recherche du Canada sur les arts et les littératures numériques – qui soutient, entre autres, le projet Archiver le présent – et co-commissaire de l’exposition en ligne <i>Re|Search</i>, signe un essai portant sur les pratiques artistiques d’appropriation et de détournement en réaction à l’hégémonie du moteur de recherche et des dispositifs Google. Ce texte est tiré de l’ouvrage collectif <i>Architectures de mémoire</i> publié en 2019 aux Presses du réel.</p>",
+  "file": {
+    "name": "essai_google-et-la-societe-de-la-requete_bertrand-gervais.pdf",
+    "path": "https://api.researchexhibition.org/file/essai_google-et-la-societe-de-la-requete_bertrand-gervais.pdf"
+  },
+  "__v": 0
+}]

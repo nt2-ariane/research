@@ -1,0 +1,469 @@
+[{
+  "_id": {
+    "$oid": "5e986136325b2e6dc3be026a"
+  },
+  "title_fr": "assembler",
+  "title_en": "assemble",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e98613c325b2e6dc3be026b"
+  },
+  "title_fr": "grouper",
+  "title_en": "group",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986145325b2e6dc3be026c"
+  },
+  "title_fr": "associer",
+  "title_en": "join",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986159325b2e6dc3be026d"
+  },
+  "title_fr": "accumuler",
+  "title_en": "accumulate",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986162325b2e6dc3be026e"
+  },
+  "title_fr": "agréger",
+  "title_en": "aggregate",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986424325b2e6dc3be0277"
+  },
+  "title_fr": "combiner",
+  "title_en": "combine",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e98642f325b2e6dc3be0278"
+  },
+  "title_fr": "comparer",
+  "title_en": "compare",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986442325b2e6dc3be0279"
+  },
+  "title_fr": "lier",
+  "title_en": "link",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e98644c325b2e6dc3be027a"
+  },
+  "title_fr": "réunir",
+  "title_en": "bring together",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986454325b2e6dc3be027b"
+  },
+  "title_fr": "confronter",
+  "title_en": "confront",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986462325b2e6dc3be027c"
+  },
+  "title_fr": "synthétiser",
+  "title_en": "summarise",
+  "__v": "0"
+},{
+  "_id": {
+    "$oid": "5e986474325b2e6dc3be027d"
+  },
+  "title_fr": "explorer",
+  "title_en": "explore",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986482325b2e6dc3be027e"
+  },
+  "title_fr": "naviguer",
+  "title_en": "surf",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986492325b2e6dc3be0280"
+  },
+  "title_fr": "découvrir",
+  "title_en": "discover",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986498325b2e6dc3be0281"
+  },
+  "title_fr": "examiner",
+  "title_en": "examine",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e98649e325b2e6dc3be0282"
+  },
+  "title_fr": "questionner",
+  "title_en": "question",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e9864ec325b2e6dc3be0284"
+  },
+  "title_fr": "fureter",
+  "title_en": "browse",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e9864f3325b2e6dc3be0285"
+  },
+  "title_fr": "interroger",
+  "title_en": "query",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e9864f7325b2e6dc3be0286"
+  },
+  "title_fr": "consulter",
+  "title_en": "consult",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e98650d325b2e6dc3be0287"
+  },
+  "title_fr": "collectionner",
+  "title_en": "collect",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986513325b2e6dc3be0288"
+  },
+  "title_fr": "lister",
+  "title_en": "list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e98651a325b2e6dc3be0289"
+  },
+  "title_fr": "répertorier",
+  "title_en": "inventory",
+  "__v": "0"
+},{
+  "_id": {
+    "$oid": "5e986521325b2e6dc3be028a"
+  },
+  "title_fr": "archiver",
+  "title_en": "archive",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986526325b2e6dc3be028b"
+  },
+  "title_fr": "ordonner",
+  "title_en": "order",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986530325b2e6dc3be028d"
+  },
+  "title_fr": "organiser",
+  "title_en": "organise",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986535325b2e6dc3be028e"
+  },
+  "title_fr": "classer",
+  "title_en": "file",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986543325b2e6dc3be0290"
+  },
+  "title_fr": "supprimer",
+  "title_en": "delete",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986548325b2e6dc3be0291"
+  },
+  "title_fr": "remixer",
+  "title_en": "remix",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e98654d325b2e6dc3be0292"
+  },
+  "title_fr": "citer",
+  "title_en": "quote",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986558325b2e6dc3be0293"
+  },
+  "title_fr": "copier-coller",
+  "title_en": "copy-paste",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e98656a325b2e6dc3be0294"
+  },
+  "title_fr": "réapproprier",
+  "title_en": "reappropriate",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986572325b2e6dc3be0295"
+  },
+  "title_fr": "reprendre",
+  "title_en": "retake",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e98658d325b2e6dc3be0296"
+  },
+  "title_fr": "modifier",
+  "title_en": "modify",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986599325b2e6dc3be0297"
+  },
+  "title_fr": "monitorer",
+  "title_en": "monitor",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e9865a0325b2e6dc3be0298"
+  },
+  "title_fr": "surveiller",
+  "title_en": "watch",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986647325b2e6dc3be0299"
+  },
+  "title_fr": "détecter",
+  "title_en": "detect",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986652325b2e6dc3be029a"
+  },
+  "title_fr": "géolocaliser",
+  "title_en": "geolocate",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986658325b2e6dc3be029b"
+  },
+  "title_fr": "suivre",
+  "title_en": "track",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986660325b2e6dc3be029c"
+  },
+  "title_fr": "documenter",
+  "title_en": "document",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986666325b2e6dc3be029d"
+  },
+  "title_fr": "informer",
+  "title_en": "inform",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986676325b2e6dc3be029e"
+  },
+  "title_fr": "témoigner",
+  "title_en": "witness",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e98667d325b2e6dc3be029f"
+  },
+  "title_fr": "démontrer",
+  "title_en": "demonstrate",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986683325b2e6dc3be02a0"
+  },
+  "title_fr": "montrer",
+  "title_en": "show",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986688325b2e6dc3be02a1"
+  },
+  "title_fr": "révéler",
+  "title_en": "reveal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e98668e325b2e6dc3be02a2"
+  },
+  "title_fr": "afficher",
+  "title_en": "display",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986693325b2e6dc3be02a3"
+  },
+  "title_fr": "signaler",
+  "title_en": "report",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e9866ce325b2e6dc3be02a5"
+  },
+  "title_fr": "fouiller",
+  "title_en": "seek",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e9866d6325b2e6dc3be02a6"
+  },
+  "title_fr": "manipuler",
+  "title_en": "manipulate",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e9866de325b2e6dc3be02a7"
+  },
+  "title_fr": "dépouiller",
+  "title_en": "uncover",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e9866e6325b2e6dc3be02a8"
+  },
+  "title_fr": "rediriger",
+  "title_en": "redirect",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e9866ef325b2e6dc3be02a9"
+  },
+  "title_fr": "détourner",
+  "title_en": "divert",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e9866f6325b2e6dc3be02aa"
+  },
+  "title_fr": "coopérer",
+  "title_en": "cooperate",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986702325b2e6dc3be02ab"
+  },
+  "title_fr": "participer",
+  "title_en": "participate",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e98670d325b2e6dc3be02ac"
+  },
+  "title_fr": "interpréter",
+  "title_en": "interpret",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986717325b2e6dc3be02ad"
+  },
+  "title_fr": "épuiser",
+  "title_en": "exhaust",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e98671d325b2e6dc3be02ae"
+  },
+  "title_fr": "tweeter",
+  "title_en": "tweet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986721325b2e6dc3be02af"
+  },
+  "title_fr": "dater",
+  "title_en": "date",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986727325b2e6dc3be02b0"
+  },
+  "title_fr": "programmer",
+  "title_en": "program",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986aee325b2e6dc3be02b2"
+  },
+  "title_fr": "adapter",
+  "title_en": "adapt",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986afb325b2e6dc3be02b3"
+  },
+  "title_fr": "investiguer",
+  "title_en": "investigate",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e986b05325b2e6dc3be02b4"
+  },
+  "title_fr": "retracer",
+  "title_en": "retrace",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e9d08702c0024665662fdd2"
+  },
+  "title_fr": "parcourir",
+  "title_en": "cover",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ea99bb8d799511937c35b6e"
+  },
+  "title_fr": "défiler",
+  "title_en": "scroll",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ea99dc0d799511937c35b73"
+  },
+  "title_fr": "préserver",
+  "title_en": "preserve",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ea99dc8d799511937c35b74"
+  },
+  "title_fr": "éditer",
+  "title_en": "edit",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e9d09082c0024665662fdd4"
+  },
+  "title_fr": "indexer",
+  "title_en": "index"
+},{
+  "_id": {
+    "$oid": "5ecf0f306bd1f709c76e4d4e"
+  },
+  "title_fr": "cataloguer",
+  "title_en": "catalog",
+  "__v": 0
+}]

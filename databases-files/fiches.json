@@ -1,0 +1,689 @@
+[{
+  "_id": {
+    "$oid": "5e986b7e325b2e6dc3be02b5"
+  },
+  "keywords": [
+    "5e986aee325b2e6dc3be02b2",
+    "5e986136325b2e6dc3be026a",
+    "5e98654d325b2e6dc3be0292",
+    "5e986558325b2e6dc3be0293",
+    "5e986660325b2e6dc3be029c",
+    "5e986afb325b2e6dc3be02b3",
+    "5e986599325b2e6dc3be0297",
+    "5e986b05325b2e6dc3be02b4",
+    "5e986548325b2e6dc3be0291",
+    "5e986721325b2e6dc3be02af"
+  ],
+  "title_en": "Baby Come Home",
+  "artist": [
+    "5ea805b62ba5df0b3cc8fed0"
+  ],
+  "url": "https://vimeo.com/159500094",
+  "body_fr": "<p><i>Baby Come Home </i>conduit à une réflexion sur les sens multiples de la recherche à l’ère numérique–qu’elle soit informative, identitaire ou mémorielle–, et aux phénomènes de disparition et de brouillage qui l’accompagne. Œuvre vidéo de huit minutes, elle met en scène la recherche d’une mère pour son fils radicalisé à travers des conversations discontinues faites par texto et superposées à des résultats de recherche en ligne. À cette quête scénarisée et affichée sur un bureau d’ordinateur s’ajoute une bande sonore minimaliste dominée par le pianotement des touches d’ordinateur et le son des messages entrant et sortant.&nbsp;</p><p>Le collectif Foundland a créé cette vidéo dans le contexte d’une exposition en hommage à l’œuvre pionnière <i>My Boyfriend Came Back from the War </i>(<i>MBCBFTW</i>) de l’artiste russe Olia Lialina. Cette œuvre, réalisée en 1996, relate les pensées et les sentiments troubles de la copine d’un soldat revenu du front. Elle donne à voir, sur le plan de la forme, l’effritement du dialogue et de la compréhension mutuelle par l’atomisation de l’interface. L’adaptation qu’est <i>Baby Come Home </i>en actualise le propos et la forme tout en restant fidèle à sa démarche.</p>",
+  "body_en": "<p><i>Baby Come Home </i>prompts a reflection on the multiple meanings of research in the digital age—whether informative, identity-based or memorial—and the phenomena of disappearance and blurring that accompany it. An eight-minute video piece, the artwork depicts a mother's search for her radicalized son through discontinuous text-based conversations superimposed onto online search results. This quest is scripted and displayed on a computer desktop and is complemented by a minimalist soundtrack dominated by the flickering of computer keys and the sound of incoming and outgoing messages.&nbsp;</p><p>Foundland collective created this video for an exhibition in homage to Russian artist Olia Lialina's pioneering work <i>My Boyfriend Came Back from the War (MBCBFTW).</i> This work, created in 1996, recounts the troubled thoughts and feelings of a woman whose soldier boyfriend has returned from the front. The form shows the erosion of dialogue and mutual understanding through the atomization of the interface. The adaptation that is <i>Baby Come Home </i>updates its purpose and form while remaining faithful to its approach.</p>",
+  "year": "2016",
+  "createdAt": {
+    "$date": "2020-04-16T14:28:14.459Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T09:41:21.774Z"
+  },
+  "__v": 3,
+  "title_fr": "Baby Come Home"
+},{
+  "_id": {
+    "$oid": "5e9d06fb2c0024665662fdcf"
+  },
+  "keywords": [
+    "5e986145325b2e6dc3be026c",
+    "5e986535325b2e6dc3be028e",
+    "5e98642f325b2e6dc3be0278",
+    "5e986474325b2e6dc3be027d",
+    "5e9866de325b2e6dc3be02a7",
+    "5e9864f3325b2e6dc3be0285",
+    "5e986513325b2e6dc3be0288",
+    "5e986526325b2e6dc3be028b",
+    "5e986530325b2e6dc3be028d",
+    "5e98649e325b2e6dc3be0282",
+    "5e98668e325b2e6dc3be02a2"
+  ],
+  "title_en": "Image Atlas",
+  "artist": [
+    "5ea80e212ba5df0b3cc8fed1",
+    "5ea80e6d2ba5df0b3cc8fed2"
+  ],
+  "url": "http://www.imageatlas.org/",
+  "body_fr": "<p><i>Image Atlas </i>est une œuvre minimaliste qui soulève des interrogations complexes sur la langue et la traduction, sur les différences socioculturelles et sur les technologies de la communication et de l’information. L’internaute accède à une page noire épurée avec une barre de recherche et deux options de classement des résultats, soit l’ordre alphabétique, soit le Produit Intérieur Brut (PIB). Les résultats de sa recherche se déclinent en listes d’images les plus populaires selon les moteurs de recherche locaux. Ces images sont associées à 20 pays, de l’Afghanistan aux États-Unis.</p><p>En tant que remédiatisation web de l’atlas traditionnel, l’œuvre encourage une réflexion sur l’organisation du savoir et son accessibilité. Elle révèle la prétention à l’objectivité et le biais eurocentriste de l’atlas classique tout en dévoilant les filtres idéologiques des moteurs de recherche. <i>Image Atlas </i>décloisonne le web en réunissant ces images sur une même page et encourage un regard comparatif à la fois politique et ludique. La simplicité de l’interface accroche ainsi les internautes qui peuvent s’amuser des écarts au niveau du sens d’un mot ou de son interprétation différée.</p>",
+  "body_en": "<p><i>Image Atlas</i> is a minimalist work that raises complex questions about language and translation, socio-cultural differences and communication and information technologies. The internet user accesses a sparse black page with a search bar and two options for sorting the results, either alphabetical order or Gross Domestic Product (GDP). The results of his or her search are lists of the most popular images according to local search engines. These images are associated with 20 countries, from Afghanistan to the United States.</p><p>As a remediation of the traditional atlas, the work encourages a reflection on the organization of knowledge and its accessibility. It reveals the claim to objectivity and the Eurocentric bias of the traditional atlas while unveiling the ideological filters of search engines. <i>Image Atlas</i> decompartmentalizes the web by bringing these images together on the same page and encourages a comparative look that is both political and playful. The simplicity of the interface appeals to internet users who can enjoy the differences in the meaning of a word or its differing interpretation.</p>",
+  "year": "2012 - en cours",
+  "createdAt": {
+    "$date": "2020-04-20T02:20:43.192Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T09:46:45.509Z"
+  },
+  "__v": 2,
+  "title_fr": "Image Atlas"
+},{
+  "_id": {
+    "$oid": "5e9d08302c0024665662fdd0"
+  },
+  "keywords": [
+    "5e986162325b2e6dc3be026e",
+    "5e986521325b2e6dc3be028a",
+    "5e9864f7325b2e6dc3be0286",
+    "5e986721325b2e6dc3be02af",
+    "5e986717325b2e6dc3be02ad",
+    "5e9864f3325b2e6dc3be0285",
+    "5e986513325b2e6dc3be0288",
+    "5e986683325b2e6dc3be02a0",
+    "5e98649e325b2e6dc3be0282",
+    "5e98651a325b2e6dc3be0289",
+    "5e986688325b2e6dc3be02a1",
+    "5e9865a0325b2e6dc3be0298",
+    "5e9d08702c0024665662fdd2"
+  ],
+  "title_en": "My Google Search History ",
+  "artist": [
+    "5ea81663dfd7e90f069c1ee8"
+  ],
+  "url": "https://www.albertinemeunier.net/google_search_history/albertine_meunier_all_my_google_search_history.txt",
+  "body_fr": "<p><i>My Google Search History</i> soulève plusieurs questions sur nos usages des moteurs de recherche: quelles traces, quelles archives produisons-nous sans même nous en apercevoir ou y porter attention? Incidemment, comment réintégrer ces archives automatiquement générées dans notre propre expérience et rendre intelligible aux usagers humains ces enregistrements qui ont été conçus par et pour des machines?</p><p>Google enregistre déjà systématiquement les requêtes de ses utilisateurs, et en ce sens l'historique qu'il propose est d'ores et déjà une archive de la surveillance à laquelle il nous soumet: par le biais d’une remédiation autoréflexive, Albertine Meunier ne fait que nous le rappeler.&nbsp;Ce geste de redoublement permet donc le déploiement d'une pensée critique (mais aussi ludique) sur la récolte de nos données.</p><p><i>My Google Search History </i>se décline en deux tomes, publiés à cinq ans d’intervalle, l’un en 2011, l’autre en 2016. Albertine Meunier y présente, sous forme livresque, son historique de navigation sur le moteur de recherche Google, à la manière d’un journal <i>extime </i>de ses requêtes successives. Les données font l’objet d’un travail d’édition minimal, ponctuées uniquement de titres loufoques et de dates d’extraction. En plus des livres, le projet a aussi donné lieu à des performances filmées où ces données sont récitées comme un long poème glossolalique.</p>",
+  "body_en": "<p><i>My Google Search History</i> raises several questions about our use of search engines: what traces and what archives are we producing without even noticing? Incidentally, how do we reintegrate these automatically generated archives into our own experience and make these recordings, that were designed by and for machines, intelligible to human users?</p><p>Google systematically records its users’ queries, and in this sense, the ‘history’ it offers is already an archive of this monitoring: Albertine Meunier’s self-reflexive remediation acts as a reminder. This gesture of repetition allows the deployment of a critical (but also playful) thought on the collection of our data.</p><p><i>My Google Search History</i> comes in two volumes, published five years apart, one in 2011 and the other in 2016. Albertine Meunier presents, in book form, her browsing history on the Google search engine, like an <i>extimate</i>, rather than <i>in</i>timate,<i> </i>diary of her successive queries. The data is subject to minimal editing work, punctuated only with eccentric titles and extraction dates. In addition to the books, the project has also given rise to filmed performances in which the data is recited like a long glossolalic poem.</p>",
+  "year": "2006-2016",
+  "createdAt": {
+    "$date": "2020-04-20T02:25:52.898Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T09:50:01.828Z"
+  },
+  "__v": 2,
+  "title_fr": "My Google Search History "
+},{
+  "_id": {
+    "$oid": "5e9d08f72c0024665662fdd3"
+  },
+  "keywords": [
+    "5e986159325b2e6dc3be026d",
+    "5e986162325b2e6dc3be026e",
+    "5e986535325b2e6dc3be028e",
+    "5e9864f7325b2e6dc3be0286",
+    "5e986492325b2e6dc3be0280",
+    "5e9866de325b2e6dc3be02a7",
+    "5e986717325b2e6dc3be02ad",
+    "5e986498325b2e6dc3be0281",
+    "5e986474325b2e6dc3be027d",
+    "5e9866ce325b2e6dc3be02a5",
+    "5e9864ec325b2e6dc3be0284",
+    "5e986666325b2e6dc3be029d",
+    "5e9864f3325b2e6dc3be0285",
+    "5e9866d6325b2e6dc3be02a6",
+    "5e9d08702c0024665662fdd2",
+    "5e98649e325b2e6dc3be0282",
+    "5e986482325b2e6dc3be027e",
+    "5e98651a325b2e6dc3be0289",
+    "5e986688325b2e6dc3be02a1",
+    "5e986693325b2e6dc3be02a3",
+    "5e9d09082c0024665662fdd4",
+    "5ecf0f306bd1f709c76e4d4e"
+  ],
+  "title_en": "Network Effect",
+  "artist": [
+    "5ea816a0dfd7e90f069c1ee9",
+    "5ea816c5dfd7e90f069c1eea"
+  ],
+  "url": "http://networkeffect.io/ ",
+  "body_fr": "<p><i>Network Effect</i> incarne le meilleur et le pire d’internet: un vaste chantier inépuisable de connaissances, mais aussi de futilités qui suscitent curiosité et angoisse.</p><p>L’œuvre consiste en une base de données de contenus variés puisés dans internet. Les 10&nbsp;000 vidéos, 10&nbsp;000 enregistrements vocaux, et autant de nouvelles, tweets, tableaux, graphiques et listes servent à enrichir un répertoire de 100 comportements humains. L’exploration est caractérisée par une contrainte temporelle inusitée qui détermine la durée d’accès au projet. Un système permet d’identifier le pays lié à l’adresse IP de l’ordinateur utilisé et d’assigner un nombre de minutes de navigation, nous rappelant que notre présence en ligne est constamment surveillée et interprétée. Une recherche approfondie au sein de la base de données s’avère dès lors impossible et incite au dépouillement hâtif ou bien au survol désintéressé.</p><p><i>Network Effect</i> invite à réfléchir à la prétention d’exhaustivité d’internet et aux effets de son expérience. En nous confrontant à un trop-plein d’éléments, l’œuvre reflète le devenir excessif d’internet, ainsi que notre insatiable quête de nouveauté et de stimulations. Elle pointe à la fois l’épuisement de l’information et du sujet.&nbsp;</p>",
+  "body_en": "<p><i>Network Effect</i> embodies the best and the worst of the internet, a vast and inexhaustible reservoir of knowledge, but also of trivia that sparks curiosity and anxiety.</p><p>The work takes the form of a database of various content drawn from the internet: 10,000 videos, 10,000 voice recordings, and as many news items, tweets, tables, graphs and lists are used to enrich a repertoire of 100 human behaviours. In order to access the project, the user is faced with an unusual temporal constraint. A system identifies the country linked to the computer’s IP address and assigns a number of minutes of browsing, reminding us that our online presence is constantly monitored and interpreted. A thorough exploration of the database is therefore impossible, prompting quick scanning or indifferent browsing.</p><p><i>Network Effect</i> asks us to ponder the internet's claim of exhaustiveness and the effects of its experience. By confronting us with an overflow of information, the work reflects the internet's excessive becoming, as well as our insatiable quest for novelty and stimulation. <i>Network Effect</i> points to both the wearing out of information and the subject.</p>",
+  "year": "2015",
+  "createdAt": {
+    "$date": "2020-04-20T02:29:11.466Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T09:50:55.437Z"
+  },
+  "__v": 4,
+  "title_fr": "Network Effect"
+},{
+  "_id": {
+    "$oid": "5e9d09742c0024665662fdd5"
+  },
+  "keywords": [
+    "5e986136325b2e6dc3be026a",
+    "5e98654d325b2e6dc3be0292",
+    "5e986492325b2e6dc3be0280",
+    "5e986474325b2e6dc3be027d",
+    "5e98613c325b2e6dc3be026b",
+    "5e986482325b2e6dc3be027e",
+    "5e9d08702c0024665662fdd2",
+    "5e986548325b2e6dc3be0291",
+    "5e986572325b2e6dc3be0295"
+  ],
+  "title_en": "[Play;]",
+  "artist": [
+    "5ea8188adfd7e90f069c1eee"
+  ],
+  "url": "http://sandrinedeumier.com/Play.html",
+  "body_fr": "<p>En reprenant la matière textuelle et les métaphores de L’<i>Odyssée</i> d’Homère, <i>[Play;] </i>propose une réinterprétation contemporaine de l’épopée comme mode de navigation et de découverte en ligne. Découpé en onze chapitres ou chants, dont les titres renvoient aux épisodes de la célèbre épopée (Pénélope, Les Cyclopes, Calypso, Les sirènes), <i>[Play;] </i>demande au spectateur/joueur d’errer avec son curseur à travers divers fragments décousus qui croisent le panthéon des héros grecs avec les mythologies contemporaines du web (sites de rencontre, chat rooms, téléchargements, géolocalisations). Deumier repense la distance qui sépare les usagers des réseaux et les modes relationnels et fantasmatiques associés à l’univers de la requête en les calquant sur le récit d’errance d’Ulysse, le héros de <i>l’Odyssée</i>.</p><p>Le dispositif numérique s’inscrit dans un projet plus large, puisque <i>[Play;]</i> est aussi une performance vidéo et scénique où l’artiste, accoutrée d’un équipement qui rappelle les attirails de réalité virtuelle et qui la fait ressembler à un avatar numérique, déclame certains des extraits qu’on retrouve sur le site de l’œuvre. Deumier y apparaît en binôme avec une musicienne qui l’accompagne de sa voix et d’une étrange lyre électrique conçue pour l’occasion. La performance semble remettre en perspective le rôle de l’aède dans nos sociétés contemporaines.</p>",
+  "body_en": "<p>Using the textual matter and metaphors of Homer's <i>Odyssey</i>, <i>[Play;]</i> proposes a contemporary reinterpretation of the epic as a mode of online navigation and discovery. Divided into eleven chapters or songs, the titles of which refer to episodes from the famous epic (Penelope, The Cyclops, Calypso, The Sirens), <i>[Play;]</i> asks the spectator/player to wander with their cursor through various disjointed fragments that cross the pantheon of Greek heroes with contemporary web mythologies (dating sites, chat rooms, downloads, geolocalization). Deumier rethinks the distance that separates users from networks and the relational and phantasmatic modes associated with the world of the query by modelling them on the wandering tale of Odysseus (Ulysses), the hero of the <i>Odyssey</i>.</p><p>This digital occurence is part of a larger project, since <i>[Play;]</i> is also a video and stage performance in which the artist, wearing equipment reminiscent of virtual reality paraphernalia and resembling a digital avatar, recites some of the excerpts found on the work's website. Deumier appears in pairs with a musician who accompanies her voice and a strange electric lyre designed for the occasion. The performance seems to put into perspective the role of the <i>aède </i>(lyric poet) in our contemporary societies.</p>",
+  "year": "2014",
+  "createdAt": {
+    "$date": "2020-04-20T02:31:16.960Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T09:57:04.410Z"
+  },
+  "__v": 1,
+  "title_fr": "[Play;]"
+},{
+  "_id": {
+    "$oid": "5e9d09d82c0024665662fdd6"
+  },
+  "keywords": [
+    "5e986521325b2e6dc3be028a",
+    "5e986136325b2e6dc3be026a",
+    "5e986145325b2e6dc3be026c",
+    "5e98650d325b2e6dc3be0287",
+    "5e986424325b2e6dc3be0277",
+    "5e9866de325b2e6dc3be02a7",
+    "5e986660325b2e6dc3be029c",
+    "5e98613c325b2e6dc3be026b",
+    "5e98658d325b2e6dc3be0296",
+    "5e986482325b2e6dc3be027e",
+    "5e986526325b2e6dc3be028b",
+    "5e9d08702c0024665662fdd2",
+    "5e98656a325b2e6dc3be0294",
+    "5e986548325b2e6dc3be0291",
+    "5e98644c325b2e6dc3be027a",
+    "5ea99bb8d799511937c35b6e"
+  ],
+  "title_en": "PRÖSPECT",
+  "artist": [
+    "5ea817a1dfd7e90f069c1eeb",
+    "5ea817c1dfd7e90f069c1eec",
+    "5ea817e3dfd7e90f069c1eed"
+  ],
+  "url": "https://pröspect.art/cycle",
+  "body_fr": "<p>Ayant recours à la métaphore de la géologie, <i>PRÖSPECT</i> est une œuvre d’art génératif qui réinterprète aux quatre heures des images d'archives photographiques extraites de bases de données en accès libre de droits. L’inépuisable patrimoine d’archives disponibles sur le web devient le terrain d’exploration de l’œuvre qui s’inscrit dans une esthétique du flux. Le bot génère des collages photographiques à partir de correspondances repérées par le moteur de recherche Google.&nbsp;</p><p>Le travail de collage et de remixage entre images historiques et images contemporaines opacifie la lecture du document photographique, faisant ainsi écho à certaines expérimentations des avant-gardes artistiques du début du XXe siècle. Les images sont associées à des textes originaux de deux vers écrits par Stéphane Archambault. Les associations textes et images se font aléatoirement au sein de grands champs sémantiques ouvrant ainsi à des interprétations renouvelées.&nbsp;&nbsp;</p><p>On peut consulter l’œuvre sous deux modes: cycle (panorama) et gisement (lecture rapprochée).</p>",
+  "body_en": "<p>Using the metaphor of geology, PRÖSPECT is a generative work of art that reinterprets images from photographic archives extracted from royalty-free databases every four hours. The inexhaustible heritage of archives available on the web becomes the field of exploration of this work, which displays characteristics of the “aesthetics of flow.” The bot generates photographic collages from matches found by the Google search engine.</p><p>The work of collage and remixing between historical and contemporary images renders the reading of the photographic document opaque, thus echoing certain experiments of the artistic avant-gardes at the beginning of the 20th century. The images are associated with original texts of two verses written by Stéphane Archambault. The associations between texts and images are randomly made within large semantic fields, thus opening up new interpretations.&nbsp;&nbsp;</p><p>The work can be consulted in two modes: cycle (panorama) and deposit (close reading).</p>",
+  "year": "2019",
+  "createdAt": {
+    "$date": "2020-04-20T02:32:56.808Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T09:58:24.033Z"
+  },
+  "__v": 3,
+  "title_fr": "PRÖSPECT"
+},{
+  "_id": {
+    "$oid": "5e9d0a802c0024665662fdd8"
+  },
+  "keywords": [
+    "5e986159325b2e6dc3be026d",
+    "5e986136325b2e6dc3be026a",
+    "5e98650d325b2e6dc3be0287",
+    "5e9864f7325b2e6dc3be0286",
+    "5e986498325b2e6dc3be0281",
+    "5e986474325b2e6dc3be027d",
+    "5e9d09082c0024665662fdd4",
+    "5e9866ce325b2e6dc3be02a5",
+    "5e9864ec325b2e6dc3be0284",
+    "5e98613c325b2e6dc3be026b",
+    "5e98670d325b2e6dc3be02ac",
+    "5e986513325b2e6dc3be0288",
+    "5e9866d6325b2e6dc3be02a6",
+    "5e986482325b2e6dc3be027e",
+    "5e9866e6325b2e6dc3be02a8",
+    "5e98651a325b2e6dc3be0289",
+    "5e986702325b2e6dc3be02ab",
+    "5e9866ef325b2e6dc3be02a9",
+    "5ecf0f306bd1f709c76e4d4e"
+  ],
+  "title_en": "The Redirectory",
+  "artist": [
+    "5ea818dcdfd7e90f069c1eef"
+  ],
+  "url": "http://redirectory.club/",
+  "body_fr": "<p>Jusqu’où peut conduire une banale requête sur un moteur de recherche ?</p><p><i>The Redirectory </i>questionne les logiques de référencement des informations sur internet en jouant pleinement avec l’esthétique de l’hyperlien, au fondement de la recherche en ligne. L’œuvre est composée de deux espaces d’exploration: un assemblage de fenêtres web et un lexique de 50 termes, dont plusieurs néologismes, des modes opératoires et des organisations dissonantes de contenus web. À travers les gestes de faire défiler<i>,</i> de cliquer et de déplacer, on peut parcourir le lexique, soit par un dépouillement intuitif des fenêtres, soit sous le mode plus organisé d’une liste de définitions.</p><p><i>The Redirectory</i> instaure le doute sur la fiabilité des informations tirées de requêtes sur les moteurs de recherche et interroge la pertinence de cette action de recherche. L’œuvre tire sa portée critique d’un assemblage qui peut sembler chaotique sous un premier regard. À l’usage, on comprend qu’il opère en miroir, révélant les distorsions des logiques de référencement des informations web inféodées au système capitaliste et soumises à diverses pressions idéologiques et mercantiles. Œuvre collaborative, elle convie aussi la communauté à transmettre des néologismes, révélateurs de ces stratégies opportunistes au coeur de l’économie de la recherche en ligne.</p>",
+  "body_en": "<p>How far can you go with a simple search engine query?</p><p><i>The Redirectory</i> questions the logic of referencing information on the internet by playing fully with the aesthetics of the hyperlink, the basis for online research. The work is composed of two exploration spaces: an assembly of web windows and a lexicon of 50 terms, including several neologisms, operating modes and dissonant organizations of web content. Through the gestures of scrolling, clicking and moving, one can browse the lexicon, either through an intuitive analysis of the windows, or in the organized mode of a list of definitions.</p><p><i>The Redirectory</i> instills doubt in the reliability of information delivered through search engine queries and examines the relevance of this research method. The artwork’s critical significance comes from a collage that seems chaotic at first glance. Through use, however, it becomes clear that the artwork functions as a mirror, revealing the warped logic of web information referencing logic subject to the capitalist system and to various ideological and commercial pressures. As a collaborative piece, the artwork also encourages the online community to convey neologisms, which reveal the opportunistic strategies at the heart of the online research economy.</p>",
+  "year": "2016",
+  "createdAt": {
+    "$date": "2020-04-20T02:35:44.628Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T10:58:13.886Z"
+  },
+  "__v": 2,
+  "title_fr": "The Redirectory"
+},{
+  "_id": {
+    "$oid": "5e9d0ac12c0024665662fdd9"
+  },
+  "keywords": [
+    "5e98668e325b2e6dc3be02a2",
+    "5e986136325b2e6dc3be026a",
+    "5e986647325b2e6dc3be0299",
+    "5e9866ef325b2e6dc3be02a9",
+    "5e986652325b2e6dc3be029a",
+    "5e98613c325b2e6dc3be026b",
+    "5e986599325b2e6dc3be0297",
+    "5e986658325b2e6dc3be029b",
+    "5e9865a0325b2e6dc3be0298"
+  ],
+  "title_en": "Tracing You",
+  "artist": [
+    "5ea81934dfd7e90f069c1ef0"
+  ],
+  "url": "https://tracingyou.bengrosser.com/",
+  "body_fr": "<p><i>Tracing You</i> exploite l’adresse IP à la manière d’un fil d’Ariane permettant de retracer un internaute qui consulte la page d’accueil de l’œuvre. À partir de ce numéro d’identification, le site spécule sur sa position géographique. L’utilisateur est alors confronté à une série de six tuiles présentant des images photographiques accompagnées de coordonnées géographiques. Mettant à profit des processus de collecte des données et des infrastructures de surveillance, <i>Tracing You</i> met les informations obtenues en rapport avec les images disponibles des endroits à proximité de cette position. Les images ont pour objectif d’incarner visuellement la position spatiale et l’environnement immédiat des individus qui fréquentent le site.</p><p>Comme l’indique l’artiste sur son site web, le résultat est tantôt étonnamment précis, tantôt on ne peut plus approximatif. Ce caractère aléatoire fait en sorte que l’œuvre, qui rend visibles les mécanismes de surveillance dont nous faisons l’objet, permet aussi d’insister sur la documentation inégale des espaces physiques et sur l’efficacité variable des dispositifs de traçage.</p>",
+  "body_en": "<p><i>Tracing You</i> employs the IP address as a trail of breadcrumbs in order to trace the internet user who consults the home page of the work. From this identification number, the site speculates on the user’s geographical position and displays a series of six tiles presenting photographic images accompanied by geographical coordinates. Leveraging data collection processes and monitoring infrastructures, <i>Tracing You</i> links the information obtained to available images of places in the vicinity of that position. The purpose of these images is to reveal the location and immediate environment of the individuals who visit the website.</p><p>As stated by the artist, the result is sometimes surprisingly precise, and others very approximate. This randomness woven into the work conveys its dual aim: making the surveillance mechanisms to which we are subject visible, while at the same time alluding to the inconsistent documentation of physical spaces and the erratic effectiveness of tracing devices.&nbsp;</p>",
+  "year": "2015",
+  "createdAt": {
+    "$date": "2020-04-20T02:36:49.311Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T11:01:56.342Z"
+  },
+  "__v": 0,
+  "title_fr": "Tracing You"
+},{
+  "_id": {
+    "$oid": "5e9d0b7e2c0024665662fdda"
+  },
+  "keywords": [
+    "5e986521325b2e6dc3be028a",
+    "5e986145325b2e6dc3be026c",
+    "5e986535325b2e6dc3be028e",
+    "5e98650d325b2e6dc3be0287",
+    "5e9d09082c0024665662fdd4",
+    "5e986513325b2e6dc3be0288",
+    "5e986526325b2e6dc3be028b",
+    "5e986530325b2e6dc3be028d",
+    "5e9d08702c0024665662fdd2",
+    "5e98651a325b2e6dc3be0289",
+    "5e986572325b2e6dc3be0295",
+    "5e986688325b2e6dc3be02a1",
+    "5e986676325b2e6dc3be029e",
+    "5ecf0f306bd1f709c76e4d4e"
+  ],
+  "title_en": "We are fragmented",
+  "artist": [
+    "5ea81960dfd7e90f069c1ef1"
+  ],
+  "url": "http://wearefragmented.amiraha.com/",
+  "body_fr": "<p><i>We are fragmented</i> enjoint à penser les procédés de mise en forme de l’information, mais aussi les rapprochements et les écarts possibles entre propositions sociologiques et esthétiques. L’œuvre est une modélisation de données préalablement&nbsp;obtenues dans le cadre d’une recherche à la croisée des sciences humaines et des sciences juridiques.&nbsp;Cette enquête du Centre for Applied Human Rights avait pour objectif de récolter, sous forme d’entrevues, les témoignages de plusieurs activistes militant pour les droits humains dans différents pays à risques (Colombie, Kenya, Mexique, Indonésie, Égypte). Cette matière est réemployée à des fins artistiques par Hanafi, qui a créé une banque de données permettant de lire les témoignages et de naviguer entre eux selon différents critères de classification: géographiques ou affectifs.&nbsp;</p><p>L'archivage est effectué dans un souci de ne pas réduire l'expérience sensible à un amas qui n’est signifiante que dans une optique d'accumulation.&nbsp;Cette particularité&nbsp;de l'œuvre - permettant de conserver l'épaisseur des expériences et de souligner leur caractère irréductible tout en nous offrant de&nbsp;les visualiser comme un ensemble - nous place, en tant que spectateur·rice, dans une posture active de «chercheur·euse», étant donné que nous devons naviguer à travers les extraits épars selon un parcours arbitraire et non-linéaire</p>",
+  "body_en": "<p><i>We are fragmented</i> invites us to consider our methods for arranging and organizing information, and the differences and similarities between a sociological and an aesthetic approach. The work consists of a modeling of data previously obtained through research at the crossroads of the humanities and legal sciences. This survey by the Centre for Applied Human Rights aimed to collect, in the form of interviews, the testimonies of several human rights activists in different at-risk countries (Colombia, Kenya, Mexico, Indonesia, Egypt). Hanafi reuses this material for artistic purposes, who created a data bank allowing us to read the testimonies and navigate between them according to different classification criteria: geographic or affective.</p><p>The archiving is carried out while refraining from reducing personal experiences to an informational heap that is only meaningful in terms of accumulation. This characteristic of the work—maintaining the irreducible complexity of the experiences while granting a broad overview—places us, as spectators, in the active posture of a “researcher” as we navigate through the scattered excerpts according to an arbitrary and non-linear path.</p>",
+  "year": "2017",
+  "createdAt": {
+    "$date": "2020-04-20T02:39:58.520Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T11:02:43.363Z"
+  },
+  "__v": 1,
+  "title_fr": "We are fragmented"
+},{
+  "_id": {
+    "$oid": "5ea99809d799511937c35b66"
+  },
+  "artist": [
+    "5ea9977cd799511937c35b65"
+  ],
+  "keywords": [
+    "5e986136325b2e6dc3be026a",
+    "5e986498325b2e6dc3be0281",
+    "5e986474325b2e6dc3be027d",
+    "5e9866ce325b2e6dc3be02a5",
+    "5e9864ec325b2e6dc3be0284",
+    "5e986666325b2e6dc3be029d",
+    "5e986683325b2e6dc3be02a0",
+    "5e986482325b2e6dc3be027e",
+    "5e986526325b2e6dc3be028b",
+    "5e9d08702c0024665662fdd2",
+    "5e98651a325b2e6dc3be0289",
+    "5e986688325b2e6dc3be02a1",
+    "5e986658325b2e6dc3be029b"
+  ],
+  "title_en": "Critical Atlas of Internet ",
+  "url": "https://louisedrulhe.fr/internet-atlas/",
+  "body_fr": "<p>À quoi ressemble internet? Quelle place le réseau occupe-t-il sur notre planète? Peut-on cartographier son déploiement? Telles sont les principales questions de l’<i>Atlas critique d’Internet</i>, un projet de recherche et d’exploration graphique mené par Louise Drulhe à l’EnsAD. Par une série de capsules textuelles et visuelles, que l’internaute découvre par défilement, l’œuvre présente des aphorismes révélateurs de la transformation des perspectives induites par la cyberculture et la pression encyclopédique du numérique. On y questionne autant les usages d’internet, les modes d’organisation et de collectes de données que les dimensions réflexives du web.&nbsp;</p><p>Cet atlas regroupe une série d’images (cartes, schémas, esquisses, photos, dessins, animations 3D), répondant à sa fonction première: représenter l’espace du web, lequel résiste particulièrement à sa saisie globale pour un sujet égocentré. «Sur la terre un individu se déplace vers ses centres d'intérêt, sur internet il est au centre et l'espace est agencé autour de lui», rappelle l’artiste. En plus de son occurrence en ligne, l’<i>Atlas critique d’Internet </i>se présente aussi sous forme de livre et d’affiche.</p>",
+  "body_en": "<p>What does the internet look like? What place does the network occupy on our planet? Can its unfolding be mapped? These are the main questions of <i>Critical Atlas of Internet</i>, a research and graphical exploration project led by Louise Drulhe at the EnsAD. The work offers a series of textual and visual excerpts—a collection of aphorisms—indicative of the shifting perspectives induced by cyberculture and the encyclopedic pressure of the digital. <i>Critical Atlas of Internet </i>questions internet uses, organizing methods and data collection as well as the reflexive dimensions of the web.</p><p>This atlas gathers a series of images (maps, diagrams, sketches, photos, drawings, 3D animations), responding to its primary function: to represent the space of the web, which is particularly resistant to being fully grasped by an egocentric subject. \"On Earth, people move towards their centers of interest; on the internet, we are at the center and the space is created around us,\" says the artist. In addition to its online presence, <i>Critical Atlas of Internet</i> is also accessible in book and poster form.</p>",
+  "year": "2015",
+  "createdAt": {
+    "$date": "2020-04-29T15:06:49.899Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T09:42:16.786Z"
+  },
+  "__v": 2,
+  "title_fr": "Atlas Critique d’Internet"
+},{
+  "_id": {
+    "$oid": "5ea998fcd799511937c35b68"
+  },
+  "artist": [
+    "5ea998bcd799511937c35b67"
+  ],
+  "keywords": [
+    "5e986136325b2e6dc3be026a",
+    "5e986454325b2e6dc3be027b",
+    "5e98642f325b2e6dc3be0278",
+    "5e9866d6325b2e6dc3be02a6",
+    "5e986599325b2e6dc3be0297",
+    "5e986548325b2e6dc3be0291",
+    "5e986572325b2e6dc3be0295",
+    "5e98644c325b2e6dc3be027a",
+    "5e986658325b2e6dc3be029b",
+    "5ea99bb8d799511937c35b6e"
+  ],
+  "title_en": "Fuyantes",
+  "url": "http://fuyantes.researchexhibition.org/",
+  "body_fr": "<p><i>Fuyantes </i>propose un dialogue entre deux figures archétypales de l’archive: la photographie de rue et la fiction documentarisante. L’œuvre présente un dyptique d’images organisées en frise et dont l’assemblage repose sur le principe d’anadiplose (reprise d’un mot ou d’une image à la fin d’une suite pour débuter la suivante). Deux images sources sont à l’origine des variations que l’internaute verra défiler en courtes séquences et qu’il pourra faire se déplacer. La première image représente une photographie repérée par un moteur de recherche quand on y inscrit le mot «Hamra», une rue de Beyrouth au Liban. La seconde image, extraite de l’épisode 1 de la saison 2 de la série <i>Homeland,</i> présente des hommes armés sur cette même rue, scène qui en réalité a été tournée à Haïfa en Israël. A la fin de chaque séquence, on peut cliquer sur recommencer pour générer une nouvelle suite.</p><p>Si les fuyantes sont des lignes parallèles devant se rejoindre à l’infini, la rencontre spatiale ou sémantique des deux frises se trouve sans cesse repoussée. En effet, on constatera que les images de rue, souvent assez uniformes, renvoient à des prises de vue du même type tandis que la série tirée d’images de fiction est plus hétérogène car elle emprunte à des genres différents (jeux vidéos, cinéma, télévision). Mentionnons enfin que certaines images peuvent heurter la sensibilité.</p>",
+  "body_en": "<p><i>Fuyantes</i> institutes a dialogue between two archetypal figures of the archive: street photography and documentary fiction. The work presents a diptych of images organized in friezes, the assembly of which is based on the principle of anadiplosis (using a word or an image at the end of one sequence to begin the next). At the origin of the variations are two source images. The first is a photograph of a street in Beirut, Lebanon, found by a search engine when the word \"Hamra\" is entered. The second image, taken from episode 1 of season 2 of the series <i>Homeland</i>, shows armed men on the same street, a scene that was in reality shot in Haifa, Israel. The visitor sees the images move, can drag the friezes and click ‘restart’ to generate a new sequence.</p><p>While the elusive (<i>fuyantes</i>) and parallel lines must meet infinitely, the spatial or semantic meeting of the two friezes is constantly being pushed back. In fact, one will notice that the street images, often quite uniform, refer to shots of the same type while the series drawn from fictional images is more heterogeneous because it borrows from different genres (video games, cinema, television). Finally, it should be mentioned that some images may offend.</p>",
+  "year": "2020",
+  "createdAt": {
+    "$date": "2020-04-29T15:10:52.454Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T09:45:33.537Z"
+  },
+  "__v": 1,
+  "title_fr": "Fuyantes"
+},{
+  "_id": {
+    "$oid": "5ea99a59d799511937c35b6b"
+  },
+  "artist": [
+    "5ea999c7d799511937c35b69",
+    "5ea999f6d799511937c35b6a"
+  ],
+  "keywords": [
+    "5e986162325b2e6dc3be026e",
+    "5e986521325b2e6dc3be028a",
+    "5e986136325b2e6dc3be026a",
+    "5e986145325b2e6dc3be026c",
+    "5e98654d325b2e6dc3be0292",
+    "5e986424325b2e6dc3be0277",
+    "5e986558325b2e6dc3be0293",
+    "5e986492325b2e6dc3be0280",
+    "5e98613c325b2e6dc3be026b",
+    "5e9864f3325b2e6dc3be0285",
+    "5e98670d325b2e6dc3be02ac",
+    "5e986442325b2e6dc3be0279",
+    "5e986599325b2e6dc3be0297",
+    "5e986702325b2e6dc3be02ab",
+    "5e98649e325b2e6dc3be0282",
+    "5e98656a325b2e6dc3be0294",
+    "5e9866e6325b2e6dc3be02a8",
+    "5e986548325b2e6dc3be0291",
+    "5e98644c325b2e6dc3be027a",
+    "5e986462325b2e6dc3be027c",
+    "5e98671d325b2e6dc3be02ae",
+    "5e9866ef325b2e6dc3be02a9"
+  ],
+  "title_en": "Predictive Art Bot",
+  "url": "http://predictiveartbot.com/ ",
+  "body_fr": "<p>Qu’avons-nous à apprendre de la prose générative d’un bot informatique?&nbsp;</p><p>Le pari lancé par le collectif Disnovation.org consiste à déléguer à la machine la production de concepts artistiques. L’algorithme derrière <i>Predictive Art Bot</i> suit les tendances émergentes parmi les sources d’information les plus influentes, puis identifie et combine des mots-clés de leurs grands titres pour en générer de nouveaux. Le site se présente ainsi comme un diptyque: un fil d’actualités médiatiques se déploie à gauche alors que les tentatives du bot sont formulées à droite. L’absurdité de l’actualité rivalise souvent avec celle des créations générées. Grâce au compte Twitter @predartbot lié au projet, les internautes peuvent relayer les concepts dans les réseaux.&nbsp;</p><p>L’œuvre parodie les pièges à clics qui pullulent sur le web et les stratégies prospectives qui ont pris d’assaut nos imaginaires. <i>Predictive Art Bot</i> porte à réfléchir à l’utilisation grandissante des algorithmes dans tous les domaines, en particulier celui de l’art. Elle révèle également que l’automatisation peut être un vecteur de stimulation pour la créativité humaine.</p>",
+  "body_en": "<p>What can we learn from the generative prose of a computer bot?</p><p>With <i>Predictive Art Bot</i>, the collective Disnovation.org tackles the challenge of delegating the production of artistic concepts to a machine. The algorithm behind the project follows emerging trends among the most influential sources of information, then identifies and combines keywords from their headlines to generate new ones. The website is thus presented as a diptych: a media news feed unfolds on the left while the bot's attempts are formulated on the right. The absurdity of the news often competes with the outlandish concepts generated. Through the Twitter account @predartbot, users can relay them across networks.</p><p>The work parodies click bait that abounds on the web and the predictive strategies that have contaminated our imaginations. <i>Predictive Art Bot</i> leads us to reflect on the growing use of algorithms in all fields, especially in art. It also reveals that automation can be a vector of stimulation for human creativity.</p>",
+  "year": "2015-2018",
+  "createdAt": {
+    "$date": "2020-04-29T15:16:41.355Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T09:57:53.207Z"
+  },
+  "__v": 1,
+  "title_fr": "Predictive Art Bot"
+},{
+  "_id": {
+    "$oid": "5ea99ba8d799511937c35b6d"
+  },
+  "artist": [
+    "5ea99b1bd799511937c35b6c"
+  ],
+  "keywords": [
+    "5e986159325b2e6dc3be026d",
+    "5e986136325b2e6dc3be026a",
+    "5e986145325b2e6dc3be026c",
+    "5e98654d325b2e6dc3be0292",
+    "5e98650d325b2e6dc3be0287",
+    "5e986424325b2e6dc3be0277",
+    "5e98642f325b2e6dc3be0278",
+    "5e986454325b2e6dc3be027b",
+    "5e986558325b2e6dc3be0293",
+    "5e986474325b2e6dc3be027d",
+    "5e98613c325b2e6dc3be026b",
+    "5e986442325b2e6dc3be0279",
+    "5e986482325b2e6dc3be027e",
+    "5e9d08702c0024665662fdd2",
+    "5e98656a325b2e6dc3be0294",
+    "5e9866e6325b2e6dc3be02a8",
+    "5e986548325b2e6dc3be0291",
+    "5e98644c325b2e6dc3be027a",
+    "5ea99bb8d799511937c35b6e"
+  ],
+  "title_en": "I’m Google ",
+  "url": "https://dinakelberman.tumblr.com/ ",
+  "body_fr": "<p><i>I’m Google</i> est le résultat du croisement du flux d’informations d’internet et du flux de conscience de l’artiste.</p><p>Les images et vidéos tirées de Google Images et YouTube sont assemblées par Dina Kelberman et s’enchaînent selon des liens formels ou thématiques. Les contenus se présentent en grille sur la page Tumblr où l’on peut défiler à travers la série en constante évolution, ou cliquer sur l’un des éléments pour remonter vers sa source et amorcer sa propre dérive vers des possibilités encore inexplorées. Par sa démarche de création et son mode d’interactivité, l’œuvre reflète doublement l’expérience de naviguer dans les méandres du web.</p><p>Bien qu’ils paraissent automatisés par un algorithme, les processus de recherche et d’organisation de Kelberman sont effectués manuellement, conférant tout son sens au titre du projet. L’artiste se réapproprie les méthodes du moteur de recherche pour mieux y injecter une part de rêverie.</p>",
+  "body_en": "<p><i>I'm Google</i> is born at the conflux of the information overflow on the Net and the artist’s stream of consciousness.&nbsp;</p><p>The images and videos sourced from Google Images and YouTube are assembled by Dina Kelberman and linked according to formal or thematic links. The content is presented in a grid on the work’s Tumblr page, where one can scroll through the constantly evolving series, or click on one of the elements to go back to its source and begin one's own drift towards unexplored possibilities. Through its creative process and interactivity, <i>I’m Google</i> doubly mirrors the experience of navigating the twists and turns of the web.</p><p>Although they appear to be automated by an algorithm, Kelberman's research and organization processes are done manually, giving the project's title its full meaning.&nbsp; The artist reclaims the search engine’s methods to better divert towards a form of reverie.</p>",
+  "year": "2011 - en cours",
+  "createdAt": {
+    "$date": "2020-04-29T15:22:16.075Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T09:46:08.491Z"
+  },
+  "__v": 1,
+  "title_fr": "I’m Google "
+},{
+  "_id": {
+    "$oid": "5ea99cf4d799511937c35b70"
+  },
+  "artist": [
+    "5ea99c7cd799511937c35b6f"
+  ],
+  "keywords": [
+    "5e986159325b2e6dc3be026d",
+    "5e986136325b2e6dc3be026a",
+    "5e98654d325b2e6dc3be0292",
+    "5e98650d325b2e6dc3be0287",
+    "5e986558325b2e6dc3be0293",
+    "5e986492325b2e6dc3be0280",
+    "5e986474325b2e6dc3be027d",
+    "5e9866ce325b2e6dc3be02a5",
+    "5e98613c325b2e6dc3be026b",
+    "5e9d08702c0024665662fdd2",
+    "5e986482325b2e6dc3be027e",
+    "5e986548325b2e6dc3be0291",
+    "5e9866ef325b2e6dc3be02a9"
+  ],
+  "title_en": "mollysoda.exposed",
+  "url": "https://mollysoda.exposed/",
+  "body_fr": "<p><i>mollysoda.exposed</i> se trouve au croisement de la vitrine artistique et du journal intime; réunissant des images, des vidéos ainsi que des hypertextes dispersés et juxtaposés sur une page web à la manière d’un collage. Les contenus hétérogènes – des vignettes kitsch de <i>sexy girls</i> aux GIF animés, en passant par de nombreuses vidéos – constituent des auto-représentations, ainsi que des images fantasmées ou stéréotypées de jeunes femmes.&nbsp;</p><p>Les interventions en ligne de l’artiste jouent précisément sur le brouillage entre le personnel et le public, entre le réel et la fiction et créent une personae distincte et cohérente à mesure que les images d’elle-même et les «confessions» intimes se multiplient. L’œuvre de Soda se situe dans cette brèche entre une appartenance à la culture web et une distanciation critique ou ironique au regard de ses normes. <i>mollysoda.exposed</i> interroge plus spécifiquement la place des filles et des femmes sur le web en performant une féminité adolescente, à la fois excessive et vulnérable, et révèle au passage le rôle des plateformes de réseaux sociaux dans le processus de représentation de soi.&nbsp;</p>",
+  "body_en": "<p><i>mollysoda.exposed</i> is both an artist’s portfolio and a diary: bringing together images, videos and hypertexts scattered and juxtaposed on a web page in the manner of a collage. The heterogeneous contents—from kitschy thumbnails of sexy girls to animated GIFs and numerous videos—constitute self-representations, as well as fantasized or stereotyped images of young women.</p><p>The artist's online interventions play precisely on the blurring between public and private, reality and fiction, and create a distinct and coherent persona as images of herself and intimate \"confessions\" multiply. Soda's work is situated in this gap between belonging to cyberculture and critically or ironically distancing from its norms. More specifically, <i>mollysoda.exposed</i> questions the place of girls and women on the web by portraying an adolescent femininity, both excessive and vulnerable, and reveals the role of social networking platforms for self-representation.</p>",
+  "year": "2015 - en cours",
+  "createdAt": {
+    "$date": "2020-04-29T15:27:48.758Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T09:48:51.974Z"
+  },
+  "__v": 1,
+  "title_fr": "mollysoda.exposed"
+},{
+  "_id": {
+    "$oid": "5ea99dafd799511937c35b72"
+  },
+  "artist": [
+    "5ea99d29d799511937c35b71"
+  ],
+  "keywords": [
+    "5e98668e325b2e6dc3be02a2",
+    "5e9864f7325b2e6dc3be0286",
+    "5e98654d325b2e6dc3be0292",
+    "5e986492325b2e6dc3be0280",
+    "5e9866de325b2e6dc3be02a7",
+    "5e986660325b2e6dc3be029c",
+    "5e986717325b2e6dc3be02ad",
+    "5e986498325b2e6dc3be0281",
+    "5e986474325b2e6dc3be027d",
+    "5e9866ce325b2e6dc3be02a5",
+    "5e9864ec325b2e6dc3be0284",
+    "5e986482325b2e6dc3be027e",
+    "5e9d08702c0024665662fdd2",
+    "5e98656a325b2e6dc3be0294",
+    "5e986688325b2e6dc3be02a1",
+    "5e986548325b2e6dc3be0291",
+    "5e986572325b2e6dc3be0295"
+  ],
+  "title_en": "framed scrolling",
+  "url": "",
+  "body_fr": "<p><i>défilement encadré</i> réfléchit, à la manière d’un miroir déformant, l’exposition dans laquelle elle figure.</p><p>Brouillant les pistes entre mondes physique et virtuel, baron lanteigne transpose l’exposition en ligne <i>Re|Search</i> dans un environnement tridimensionnel rappelant le cube blanc de la galerie. L’œuvre se penche, non sans ironie, sur la mise en espace d’expositions ainsi que sur les conditions de réception. Elle prolonge en ce sens les intérêts de l’artiste concernant la participation en ligne et la spatialisation du web.&nbsp;</p><p><i>défilement encadré</i> entraîne l’internaute dans un parcours labyrinthique. Présentée en boucle, sans début ni fin réels, la vidéo crée l’illusion d’une exploration infinie et, par conséquent, d’un épuisement des images, des espaces et du sujet. Véritable mise en abyme, l’œuvre offre un aperçu de l’exposition tout en évoquant la variabilité des expériences en ligne.</p>",
+  "body_en": "<p><i>framed scrolling</i> reflects, like a distorting mirror, the exhibition in which it is presented.</p><p>Baron lanteigne blurs the line between physical and virtual worlds by replicating the online exhibition <i>Re|Search</i> into a three-dimensional environment reminiscent of a white cube gallery. The work, very much tongue-in-cheek, alludes to the experience of exhibition space and online spectatorship. It therefore pursues the artist’s interests regarding participation and questions of spatialization on the web.&nbsp;</p><p><i>framed scrolling</i> takes the user on a labyrinthine journey. Presented in a loop with no actual beginning or end, the video creates the illusion of an infinite exploration and, consequently, of a wearing out of the images, spaces and subject. The work, a veritable mise en abyme, offers a glimpse of the exhibition while evoking the variability of online experiences.&nbsp;</p>",
+  "year": "2020",
+  "createdAt": {
+    "$date": "2020-04-29T15:30:55.530Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T09:43:05.989Z"
+  },
+  "__v": 4,
+  "title_fr": "défilement encadré"
+},{
+  "_id": {
+    "$oid": "5eb5b92e5e0a890dfc7c7d6a"
+  },
+  "artist": [
+    "5eb5b8dd5e0a890dfc7c7d69"
+  ],
+  "keywords": [
+    "5e986159325b2e6dc3be026d",
+    "5e986136325b2e6dc3be026a",
+    "5e98654d325b2e6dc3be0292",
+    "5e98650d325b2e6dc3be0287",
+    "5e986558325b2e6dc3be0293",
+    "5e986492325b2e6dc3be0280",
+    "5e986474325b2e6dc3be027d",
+    "5e98613c325b2e6dc3be026b",
+    "5e9d08702c0024665662fdd2",
+    "5e986482325b2e6dc3be027e",
+    "5e986548325b2e6dc3be0291"
+  ],
+  "title_en": "Désordre",
+  "url": "https://www.desordre.net/",
+  "body_fr": "<p><i>Désordre</i> est un vaste espace mémoriel, où tout se trouve pêle-mêle comme dans un bazar. Le projet, qui ne devait consister qu’en un site de présentation du travail photographique de Philippe De Jonckheere, s’est peu à peu transformé en une œuvre tentaculaire, où photos, vidéos et extraits sonores cohabitent avec des textes de natures diverses: entrées de journal, créations littéraires, reprises et collages.&nbsp;</p><p>Aux antipodes d’une recherche méthodique, l’exploration de <i>Désordre</i> doit adopter le principe de la dérive ou de la découverte aléatoire des fragments qui le composent. La navigation au sein du site permet d’ailleurs de constater que les projets qui y figurent contiennent des hyperliens qui renvoient à d’autres projets présents sur le site, et ainsi de suite. C’est dire que de Jonckheere propose un univers complexe dont le mode d’appréhension délinéarisé est étroitement lié au support qui le rend possible, l’espace hypertextuel du web.</p><p>L’une des références majeures de <i>Désordre</i> est la filiation avec l’œuvre de Georges Perec, avec qui il partage une passion pour <i>l’infra-ordinaire</i>. En plus de reprendre plusieurs œuvres de cet auteur, de Jonckheere a un goût marqué pour l’ordinaire, le quotidien, le trivial.</p>",
+  "body_en": "<p><i>Désordre</i> is a vast memorial space, where everything is jumbled up like a bazaar. The project, originally intended as a site presenting the photographic work of Philippe De Jonckheere, has gradually evolved into a sprawling work where photos, videos and sound extracts cohabit with texts of various kinds: diary entries, literary creations, remakes and collages.</p><p>At the antipodes of methodical research, the exploration of <i>Désordre</i> must follow the principles of drifting or random discovery of its fragments. Browsing through the site, one can see that the projects contain hyperlinks to other projects on the site, and so on. In other words, de Jonckheere proposes a complex universe whose delinearized mode of perception is closely linked to the medium that makes it possible, the hypertextual space of the web.</p><p>One of <i>Désordre</i>'s main references is the work of Georges Perec, with whom de Jonckheere shares a passion for the infra-ordinary. In addition to remaking several of Perec’s works, de Jonckheere has a marked taste for the ordinary, the everyday, the trivial.</p>",
+  "year": "2001 - en cours",
+  "createdAt": {
+    "$date": "2020-05-08T19:55:26.299Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T09:44:58.321Z"
+  },
+  "__v": 0,
+  "title_fr": "Désordre"
+},{
+  "_id": {
+    "$oid": "5eb5b9e95e0a890dfc7c7d6c"
+  },
+  "artist": [
+    "5eb5b9a95e0a890dfc7c7d6b",
+    "5ebc507689e8837930d9f150"
+  ],
+  "keywords": [
+    "5e986136325b2e6dc3be026a",
+    "5e98650d325b2e6dc3be0287",
+    "5e986424325b2e6dc3be0277",
+    "5e9866f6325b2e6dc3be02aa",
+    "5e986558325b2e6dc3be0293",
+    "5e986647325b2e6dc3be0299",
+    "5e986498325b2e6dc3be0281",
+    "5e98613c325b2e6dc3be026b",
+    "5e986599325b2e6dc3be0297",
+    "5e986548325b2e6dc3be0291",
+    "5e986693325b2e6dc3be02a3",
+    "5e9865a0325b2e6dc3be0298",
+    "5ea99bb8d799511937c35b6e"
+  ],
+  "title_en": "The New Organs",
+  "url": "https://neworgans.net/",
+  "body_fr": "<p>Jouant à fond la carte de l’oreille et de son pavillon, dont la présence ponctue le documentaire qui chapeaute le projet, <i>The New Organs</i> se présente comme une archive de ces micro-surveillances qui impactent les contenus qui nous sont proposés lors de nos navigations.&nbsp;</p><p>L’œuvre est une collection de récits personnels qui font état, à travers une multitude d’expériences singulières, d’une surveillance constante des usagers qui naviguent sur le réseau. À la demande de Sam Lavigne, les internautes lui ont livré des témoignages concernant des événements d’apparence insignifiante, mais qui sont les indices de l’écoute et de l’espionnage constants de nos conversations et de nos trajets, en ligne ou non, réalisés par le biais de nos appareils électroniques.&nbsp;</p><p>Une pléthore de témoignages racontent la même histoire, celle de la&nbsp;violation, constante et impunie, du droit à la vie privée. Explorer l’œuvre génère un certain sentiment d’impuissance qui peut nous conduire à reprendre le contrôle de nos propres comportements et habitudes.&nbsp;Ainsi Lavigne nous révèle l’espionnage auquel s’adonnent les GAFAM; mais en multipliant les exemples grâce à son travail d’enquête et de requête participative, il crée une forme de contre-surveillance qui nous permet à nous, usagers, d’épier à notre tour l’algorithme qui nous traque.</p>",
+  "body_en": "<p>By employing the metaphor of the ear and its pinna, which punctuates the documentary overseeing the project, <i>The New Organs</i> is an archive of the micro-surveillances impacting one’s exploration of online content.</p><p>The artwork is a collection of personal accounts that reveal, through a multitude of singular experiences, the constant tracking of internet users. At Sam Lavigne's request, they have provided him with testimonials of events that may seem insignificant, but which are clues to the constant eavesdropping and spying of conversations and itineraries, online or offline, carried out through our electronic devices.</p><p>This plethora of testimonies tell the same story: that of the constant and unpunished violation of the right to privacy. Exploring the work generates a certain sense of powerlessness that can hopefully lead us to regain control of our behaviors and habits. Through his work of investigation and participatory inquiry, Lavigne not only reveals the monitoring conducted by GAFAM but also creates a form of counter-surveillance that allows us users to spy on the algorithm that tracks us.</p>",
+  "year": "2018",
+  "createdAt": {
+    "$date": "2020-05-08T19:58:33.630Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T10:57:32.092Z"
+  },
+  "__v": 2,
+  "title_fr": "The New Organs"
+},{
+  "_id": {
+    "$oid": "5ed855c34f83757a58bb6751"
+  },
+  "artist": [
+    "5ebc4fd889e8837930d9f14f"
+  ],
+  "keywords": [
+    "5e986145325b2e6dc3be026c",
+    "5e98642f325b2e6dc3be0278",
+    "5e986424325b2e6dc3be0277",
+    "5e986454325b2e6dc3be027b",
+    "5e986652325b2e6dc3be029a",
+    "5e9d08702c0024665662fdd2",
+    "5e98656a325b2e6dc3be0294",
+    "5e986688325b2e6dc3be02a1",
+    "5e986676325b2e6dc3be029e"
+  ],
+  "title_en": "After Foreclosure",
+  "url": "https://vimeo.com/418989216/aec77839b0",
+  "body_fr": "<p><i>After Foreclosure </i>retrace l’évolution du paysage urbain et suburbain états-unien à partir des images de Google Street View produites entre 2008 et 2019, une période marquée par la crise financière des subprimes. Le titre de l’œuvre renvoie aux nombreuses saisies immobilières effectuées par les banques et les villes suite à l’effondrement du marché, troublant ainsi des milliers de vies, le territoire et les&nbsp; imaginaires.</p><p>Le diptyque à gauche de la vidéo superpose les images des quartiers habités avant la crise immobilière aux terrains vagues qu’ils sont devenus et aux rues bétonnées des grands centres où s’entassent désormais les abris de fortune des familles évincées. À droite, les images satellites de ces mêmes lieux s’affichent en simultané et actionnent des postes de radio parlée locale. Les propos émis à la&nbsp; radio ajoutent de la profondeur aux contenus visuels et permettent d’entrevoir la trame narrative contre laquelle se joue le quotidien des personnes affectées.</p><p>Un récit complexe émerge de l’organisation segmentée de la vidéo, liant la grande et la petite échelle ainsi que les temporalités diverses des images et des sons sur un même plan. <i>After Foreclosure </i>souligne la relation entre les données (financières, informatiques) et les réalités sociales et culturelles qu’elles occultent tout en donnant voix à des préoccupations actuelles qui ravivent, poétiquement et politiquement, les crises du passé inscrites à même le paysage.</p>",
+  "body_en": "<p><i>After Foreclosure </i>traces the evolution of the United States’ urban and suburban landscape from Google Street View images produced between 2008 and 2019, a period beginning with the subprime financial crisis. The title of the work refers to the many foreclosures carried out by banks and cities following the collapse of the real estate market, afflicting thousands of lives as well as the land and collective&nbsp; imaginary.</p><p>The diptych to the left of the video superimposes images of the inhabited neighbourhoods before the crisis with the wastelands they have become or the concrete streets of city centers where the makeshift shelters of evicted families are now piled up. On the right, satellite images of these same places are displayed simultaneously and activate local radio stations. Radio commentators add depth to the visual content and reveal parts of the narrative fabric against which the daily lives of the people affected are played out.</p><p>A complex narrative emerges from the segmented organization of the video, linking large and small scales and the diverse temporalities of the images and the sounds on the same plane. <i>After Foreclosure </i>underlines the relationship between data (financial, informational) and the social and cultural realities it obscures, while giving voice to current concerns that revive— poetically and politically—the crises of the past imprinted on the landscape.</p>",
+  "year": "2020",
+  "createdAt": {
+    "$date": "2020-06-04T02:00:35.736Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T09:40:47.606Z"
+  },
+  "__v": 0,
+  "title_fr": "After Foreclosure"
+},{
+  "_id": {
+    "$oid": "5f7f46e9a496443684f0e7d5"
+  },
+  "artist": [
+    "5ea99d29d799511937c35b71"
+  ],
+  "keywords": [
+    "5e986136325b2e6dc3be026a",
+    "5e986521325b2e6dc3be028a",
+    "5e986492325b2e6dc3be0280",
+    "5e9866ef325b2e6dc3be02a9",
+    "5e986498325b2e6dc3be0281",
+    "5e986474325b2e6dc3be027d",
+    "5e98613c325b2e6dc3be026b",
+    "5e986683325b2e6dc3be02a0",
+    "5e9d08702c0024665662fdd2",
+    "5e98651a325b2e6dc3be0289",
+    "5e98656a325b2e6dc3be0294",
+    "5e9866e6325b2e6dc3be02a8",
+    "5e986688325b2e6dc3be02a1",
+    "5e98644c325b2e6dc3be027a"
+  ],
+  "title_fr": "Tangible Data",
+  "title_en": "Tangible Data",
+  "url": "http://www.tangibledata.art/ ",
+  "body_fr": "<p><i>Tangible Data</i> est une œuvre d’exploration et d’infiltration d’une communauté en ligne qui développe un marché de l’art «virtuel» pour un public avide de cryptomonnaie. Une série de boucles d’animations - créées et monétisées par l’artiste en fonction des exigences de consommation du web et des réseaux sociaux - servent d’amorce à un projet plus large qui s’étend sur plusieurs plateformes web.&nbsp;</p><p>Dans ce jeune marché du cryptoart, tout semble être mis en place pour que l’univers virtuel arbore paradoxalement les caractéristiques inhérentes au monde matériel. Alors qu’internet favorise le partage en accéléré et le libre accès aux contenus, cette communauté soumise à la blockchain raréfie l’immatériel afin de permettre aux collectionneur·euses de revendiquer leurs droits sur les œuvres.Cette opération a pour effet de fixer et de garantir la valeur monétaire de l'oeuvre intangible issue du web tout en donnant accès, en toute transparence, aux transactions effectuées dans ce marché.</p><p>L’un des volets de <i>Tangible Data</i> consiste à dévoiler les interactions entre artistes et collectionneur·euses, documentées à l’aide de captures d’écrans provenant de plateformes en ligne telles que Twitter, Discord et Reddit. Ces traces sont intégrées aux animations qui mettent en scène leur contexte d’exposition dans des espaces à la frontière du physique et du virtuel. Les animations sont ainsi à la fois des œuvres à part entière et des maquettes pour des installations réelles à venir.</p>",
+  "body_en": "<p><i>Tangible Data</i> explores and infiltrates an online community that develops a \"virtual\" art market for a cryptocurrency-hungry public. A series of animated loops—created and monetized by the artist to suit the demands and consumption of this community—provide a basis for the larger project, which extends across several web platforms.</p><p>In this new cryptoart market, everything seems poised for the virtual universe which paradoxically displays characteristics inherent to the material world. While the internet fosters accelerated sharing and open-access content, this community subject to blockchain technology rarefies the immaterial in order to allow collectors to claim rights over the artworks. This has the insidious effect of affirming the monetary value of intangible web-based artworks. And yet, this also makes way for an unprecedented transparency concerning transactions carried out in this market.</p><p>One of the components of <i>Tangible Data</i> involves unveiling the interactions between artists and collectors, documented through screenshots on online platforms like Twitter, Discord, and Reddit. These traces are integrated into the animations which display their exhibition context in spaces that bridge the real and virtual worlds. The animations are thus both artworks in and of themselves and models for real installations to come.</p>",
+  "year": "2020",
+  "createdAt": {
+    "$date": "2020-10-08T17:05:45.742Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T12:27:26.016Z"
+  },
+  "__v": 2
+}]

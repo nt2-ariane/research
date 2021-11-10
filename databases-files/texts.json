@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "5ede4188aac82625de2131a6"
+  },
+  "name": "about",
+  "text_fr": "<p>L’exposition en ligne <i>Re|Search </i>entreprend de saisir la pulsion de recherche propre à l’ère numérique.&nbsp;</p><p>Internet et les moteurs de recherche qui en gèrent l’accès constituent une économie où l’attention est devenue une monnaie d’échange et où la requête s’impose comme le principal processus de découverte du monde. Des gestes comme <i>googler,</i> copier-coller, collectionner et partager font dorénavant partie de nos usages quotidiens. Quels en sont les effets sur les imaginaires personnels et collectifs?</p><p><i>Re|Search </i>s’intéresse à la manière dont les pratiques artistiques, littéraires et culturelles reflètent et déjouent cette omniprésence technologique. Comment permettent-elles de réfléchir aux méthodes et aux outils de recherche en ligne? Quels types d’actions et de récits alternatifs proposent-elles? Par quels moyens investissent-elles le lieu même d’où naissent ces préoccupations: le web?&nbsp;</p><p>Cette exposition se veut évolutive dans sa forme et son contenu. Elle rassemble actuellement près de vingt œuvres hypermédiatiques mises en ligne depuis le début du 21e siècle. Datant de 2006 à aujourd’hui, réalisées par divers artistes et collectifs, elles offrent un portrait de notre condition numérique, des enjeux qui en découlent et de ses multiples représentations.</p><p><i>Re|Search</i> demande d’accomplir un acte de recherche afin d’accéder aux œuvres. Celles-ci sont reliées à des mots-clés caractéristiques des processus de recherche. Taper un verbe à l’infinitif dans la barre de recherche fait apparaître les œuvres qui y sont associées.</p>",
+  "text_en": "<p>The online exhibition<i> Re|Search</i> aims to capture our prevailing impulse to search in the digital age.&nbsp;</p><p>The internet and its search engines form an economy where attention has become a currency and query establishes itself as the central means of exploring the world. Googling, scrolling, collecting, and sharing are now part of our daily routine. What are the effects of these activities on our personal and collective imaginations?</p><p><i>Re|Search</i> focuses on how artistic, literary, and cultural practices reflect on and interfere with this technological pervasiveness. How do these practices allow us to think about widespread data management, online research methods, and tools? What types of alternative actions and stories do they offer? By what means do they occupy the very place of these concerns: the web?</p><p>This exhibition is intended to evolve over time in form and content. At present, it gathers eighteen hypermedia artworks available online since the beginning of the 21st century. Ranging from 2006 to the present, the works by various artists and collectives provide an overview of our digital condition, and its resulting issues evolving over time.</p><p><i>Re|Search </i>requires to access the artworks through keywords characteristic of our online behaviours. Typing an infinitive verb in the search bar reveals the associated artworks.</p>",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ede4191aac82625de2131a7"
+  },
+  "name": "error",
+  "text_fr": "<p>ERREUR</p><p>Le mot-clé utilisé ne correspond à aucune oeuvre.</p><p>Suggestions :</p><ul><li>Vérifier qu’il s’agit d’un verbe à l’infinitif lié aux gestes de la recherche et de l’archivage.</li><li>Utiliser un mot-clé qui figure dans l’animation de la page d’accueil: assembler | collectionner | monitorer | naviguer | rechercher</li></ul>",
+  "text_en": "<p>ERROR</p><p>This keyword does not match any artwork.</p><p>Suggestions :</p><ul><li>Make sure the keyword is spelled correctly and is an infinitive verb.</li><li>Use a keyword that appears in the homepage animation: assemble | collect | monitor | surf | research</li></ul>",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ede419eaac82625de2131a8"
+  },
+  "name": "intro",
+  "text_fr": "<p>L’exposition en ligne <i>Re|Search</i> demande d’accomplir un acte de recherche afin d’accéder aux œuvres. Celles-ci sont reliées à des mots-clés caractéristiques des processus de recherche.&nbsp;</p><p>Taper un verbe à l’infinitif dans la barre de recherche fait apparaître les œuvres qui y sont associées.</p><p>Suggestion:</p><p>Utiliser un mot-clé qui figure dans l’animation de la page d’accueil: assembler | collectionner | monitorer | naviguer | rechercher</p>",
+  "text_en": "<p>The online exhibition <i>Re|Search</i> requires to access the artworks through keywords characteristic of our online behaviours.&nbsp;</p><p>Typing an infinitive verb in the search bar reveals the associated artworks.</p><p>Suggestion:</p><p>Use a keyword that appears in the homepage animation: assemble | collect | monitor | surf | research</p>",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ede424d6d99872824813cb3"
+  },
+  "name": "intro",
+  "text_fr": "hello",
+  "text_en": "world",
+  "__v": 0
+}]

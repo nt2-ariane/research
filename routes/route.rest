@@ -1,0 +1,28 @@
+POST http://researchexhibition.org:3010/user/signup
+Content-Type: application/json
+
+{
+
+  "email": "cedric@labo-nt2.org",
+  "password":"nt-deux2",
+  "infos":{
+      "firstname":"Cédric",
+      "lastname":"Anderson"
+  }
+}
+###
+POST http://researchexhibition.org:3010/user/register
+Content-Type: application/json
+
+{
+
+  "email": "cedric@labo-nt2.org",
+  "password":"nt-deux2",
+  "infos":{
+      "firstname":"Cédric",
+      "lastname":"Anderson"
+  }
+}
+###
+GET http://localhost:3010/user/password
+Content-Type: application/json

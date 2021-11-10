@@ -1,0 +1,613 @@
+[{
+  "_id": {
+    "$oid": "5ea7ff4684f2150a58c752d3"
+  },
+  "isArtist": false,
+  "firstname": "Ludovic",
+  "lastname": "Doutre-Guay",
+  "url": "http://doutreguay.com",
+  "role": "Développeur Web",
+  "createdAt": {
+    "$date": "2020-04-28T10:02:46.226Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-20T00:33:35.276Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ea805b62ba5df0b3cc8fed0"
+  },
+  "isArtist": true,
+  "firstname": "Foundland Collective",
+  "lastname": "",
+  "url": "http://www.foundland.info/",
+  "createdAt": {
+    "$date": "2020-04-28T10:30:14.696Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-19T15:23:25.424Z"
+  },
+  "__v": 0,
+  "role": "",
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ea80e212ba5df0b3cc8fed1"
+  },
+  "isArtist": true,
+  "firstname": "Taryn ",
+  "lastname": "Simon",
+  "url": "http://tarynsimon.com/",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-04-28T11:06:09.374Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:54:10.060Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ea80e6d2ba5df0b3cc8fed2"
+  },
+  "isArtist": true,
+  "firstname": "Aaron",
+  "lastname": "Swartz",
+  "url": "http://www.aaronsw.com/",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-04-28T11:07:25.196Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T21:00:47.362Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ea81663dfd7e90f069c1ee8"
+  },
+  "isArtist": true,
+  "firstname": "Albertine",
+  "lastname": "Meunier",
+  "url": "https://www.albertinemeunier.net/",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-04-28T11:41:23.185Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:54:21.206Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ea816a0dfd7e90f069c1ee9"
+  },
+  "isArtist": true,
+  "firstname": "Jonathan",
+  "lastname": "Harris",
+  "url": "http://number27.org/",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-04-28T11:42:24.683Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:54:25.457Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ea816c5dfd7e90f069c1eea"
+  },
+  "isArtist": true,
+  "firstname": "Greg",
+  "lastname": "Hochmuth",
+  "url": "https://grex.nyc/",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-04-28T11:43:01.682Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:54:28.874Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ea817a1dfd7e90f069c1eeb"
+  },
+  "isArtist": true,
+  "firstname": "Isabelle",
+  "lastname": "Gagné",
+  "url": "http://www.isabellegagne.ca/",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-04-28T11:46:41.143Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T00:03:09.961Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ea817c1dfd7e90f069c1eec"
+  },
+  "isArtist": true,
+  "firstname": "Paul ",
+  "lastname": "Gascou-Vaillancourt",
+  "url": "https://paulgv.com/fr/",
+  "role": "Code",
+  "createdAt": {
+    "$date": "2020-04-28T11:47:13.012Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:54:37.306Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ea817e3dfd7e90f069c1eed"
+  },
+  "isArtist": true,
+  "firstname": "Stéphane",
+  "lastname": "Archambault",
+  "url": "",
+  "role": "Textes",
+  "createdAt": {
+    "$date": "2020-04-28T11:47:47.837Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:54:40.743Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ea8188adfd7e90f069c1eee"
+  },
+  "isArtist": true,
+  "firstname": "Sandrine",
+  "lastname": "Deumier",
+  "url": "http://sandrinedeumier.com/",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-04-28T11:50:34.204Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:54:46.143Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ea818dcdfd7e90f069c1eef"
+  },
+  "isArtist": true,
+  "firstname": "Institute for New Feeling",
+  "lastname": "",
+  "url": "http://www.institutefornewfeeling.com/home",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-04-28T11:51:56.417Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:54:52.814Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ea81934dfd7e90f069c1ef0"
+  },
+  "isArtist": true,
+  "firstname": "Benjamin",
+  "lastname": "Grosser",
+  "url": "https://bengrosser.com/",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-04-28T11:53:24.763Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T21:00:24.855Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ea81960dfd7e90f069c1ef1"
+  },
+  "isArtist": true,
+  "firstname": "Amira",
+  "lastname": "Hanafi",
+  "url": " https://amirahanafi.com/",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-04-28T11:54:08.195Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-27T23:37:30.857Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ea9977cd799511937c35b65"
+  },
+  "isArtist": true,
+  "firstname": "Louise",
+  "lastname": "Drulhe",
+  "url": "https://louisedrulhe.fr",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-04-29T15:04:28.253Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:55:02.797Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ea998bcd799511937c35b67"
+  },
+  "isArtist": true,
+  "firstname": "Damien",
+  "lastname": "Beyrouthy",
+  "url": "https://damienbeyrouthy.com/",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-04-29T15:09:48.691Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:55:06.803Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ea999c7d799511937c35b69"
+  },
+  "isArtist": true,
+  "firstname": "Disnovation.org",
+  "lastname": "",
+  "url": "http://disnovation.org/",
+  "role": "conception",
+  "createdAt": {
+    "$date": "2020-04-29T15:14:15.104Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:55:11.179Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ea999f6d799511937c35b6a"
+  },
+  "isArtist": true,
+  "firstname": "Jérôme ",
+  "lastname": "Saint-Clair",
+  "url": "https://www.saint-clair.net/",
+  "role": "programmation",
+  "createdAt": {
+    "$date": "2020-04-29T15:15:02.084Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:55:15.301Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ea99b1bd799511937c35b6c"
+  },
+  "isArtist": true,
+  "firstname": "Dina",
+  "lastname": "Kelberman",
+  "url": "https://dinakelberman.com/",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-04-29T15:19:55.231Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:55:18.922Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ea99c7cd799511937c35b6f"
+  },
+  "isArtist": true,
+  "firstname": "Molly",
+  "lastname": "Soda",
+  "url": "https://mollysoda.exposed/",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-04-29T15:25:48.229Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:55:23.318Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ea99d29d799511937c35b71"
+  },
+  "isArtist": true,
+  "firstname": "baron lanteigne",
+  "lastname": "",
+  "url": "https://baronlanteigne.com/",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-04-29T15:28:41.815Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-08T14:31:05.022Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5eb5b8dd5e0a890dfc7c7d69"
+  },
+  "isArtist": true,
+  "firstname": "Philippe de",
+  "lastname": "Jonckheere",
+  "url": "https://www.desordre.net/",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-05-08T19:54:05.672Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-19T15:24:25.348Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5eb5b9a95e0a890dfc7c7d6b"
+  },
+  "isArtist": true,
+  "firstname": "Sam",
+  "lastname": "Lavigne",
+  "url": "https://lav.io/",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-05-08T19:57:29.316Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:55:34.766Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ebbff1941fbd475e77e709d"
+  },
+  "isArtist": false,
+  "firstname": "Cédric",
+  "lastname": "Anderson",
+  "url": "https://cedricanderson.com/",
+  "role": "Développeur Web",
+  "createdAt": {
+    "$date": "2020-05-13T14:07:21.331Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-20T00:33:43.667Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ebbff8541fbd475e77e709e"
+  },
+  "isArtist": false,
+  "firstname": "Gina",
+  "lastname": "Cortopassi",
+  "url": "http://archiverlepresent.org/individu/cortopassi-gina",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-05-13T14:09:09.286Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:56:00.034Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ebc01b1b655f077623a0e72"
+  },
+  "isArtist": false,
+  "firstname": "Marie",
+  "lastname": "Fraser",
+  "url": "http://archiverlepresent.org/individu/fraser-marie",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-05-13T14:18:25.391Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:56:03.736Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ebc01d2b655f077623a0e73"
+  },
+  "isArtist": false,
+  "firstname": "Bertrand",
+  "lastname": "Gervais",
+  "url": "http://archiverlepresent.org/individu/gervais-bertrand",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-05-13T14:18:58.478Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:56:06.914Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ebc01ebb655f077623a0e74"
+  },
+  "isArtist": false,
+  "firstname": "Joanne",
+  "lastname": "Lalonde",
+  "url": "http://archiverlepresent.org/individu/lalonde-joanne",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-05-13T14:19:23.827Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:56:10.102Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ebc020ab655f077623a0e75"
+  },
+  "isArtist": false,
+  "firstname": "Laurence",
+  "lastname": "Perron",
+  "url": "http://archiverlepresent.org/individu/perron-laurence",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-05-13T14:19:54.677Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:56:14.379Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ebc0231b655f077623a0e76"
+  },
+  "isArtist": false,
+  "firstname": "Lisa",
+  "lastname": "Tronca",
+  "url": "http://archiverlepresent.org/individu/tronca-lisa",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-05-13T14:20:33.945Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:56:17.306Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ebc4fd889e8837930d9f14f"
+  },
+  "isArtist": true,
+  "firstname": "Nans",
+  "lastname": "Bortuzzo",
+  "url": "http://nansbortuzzo.com/",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-05-13T19:51:52.362Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:56:21.426Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ebc507689e8837930d9f150"
+  },
+  "isArtist": true,
+  "firstname": "Tega",
+  "lastname": "Brain",
+  "url": "http://tegabrain.com/",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-05-13T19:54:30.588Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T20:56:25.528Z"
+  },
+  "__v": 0,
+  "isPartner": false
+},{
+  "_id": {
+    "$oid": "5ebc571f89e8837930d9f151"
+  },
+  "isArtist": false,
+  "firstname": "Archiver le présent",
+  "lastname": "Archiver le présent",
+  "url": "http://www.archiverlepresent.org/",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-05-13T20:22:55.227Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-20T00:40:15.261Z"
+  },
+  "__v": 0,
+  "isPartner": true
+},{
+  "_id": {
+    "$oid": "5ebc573389e8837930d9f152"
+  },
+  "isArtist": false,
+  "firstname": "Chaire de recherche du Canada sur les arts et les littératures numériques ",
+  "lastname": "Canada Research Chair in Digital Art and Literature",
+  "url": "http://nt2.uqam.ca",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-05-13T20:23:15.989Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-20T00:39:40.710Z"
+  },
+  "__v": 0,
+  "isPartner": true
+},{
+  "_id": {
+    "$oid": "5ebc574a89e8837930d9f153"
+  },
+  "isArtist": false,
+  "isPartner": true,
+  "firstname": "Faculté des arts UQAM ",
+  "lastname": "Faculté des arts UQAM",
+  "url": "https://arts.uqam.ca/",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-05-13T20:23:38.775Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-20T00:41:00.521Z"
+  },
+  "__v": "0"
+},{
+  "_id": {
+    "$oid": "5ebc575b89e8837930d9f154"
+  },
+  "isArtist": false,
+  "firstname": "Laboratoire NT2",
+  "lastname": "Lab NT2",
+  "url": "http://nt2.uqam.ca",
+  "role": "",
+  "createdAt": {
+    "$date": "2020-05-13T20:23:55.939Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-20T00:40:43.036Z"
+  },
+  "__v": 0,
+  "isPartner": true
+}]

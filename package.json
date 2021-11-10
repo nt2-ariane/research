@@ -1,34 +1,39 @@
 {
-  "name": "gestion",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0"
-  },
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "nodemon research-serveur.js"
   },
-  "eslintConfig": {
-    "extends": "react-app"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "buttercup": "^3.0.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "errorhandler": "^1.5.1",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "express-mongo-sanitize": "^1.3.2",
+    "express-rate-limit": "^5.1.1",
+    "express-session": "^1.17.0",
+    "express-validator": "^6.4.0",
+    "fs": "0.0.1-security",
+    "googleapis": "^39.2.0",
+    "helmet": "^3.22.0",
+    "ip": "^1.1.5",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.3",
+    "react-google-calendar-api": "^1.0.11",
+    "readline": "^1.3.0",
+    "xss-clean": "^0.1.1"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.2"
   }
 }
